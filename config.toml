@@ -1,5 +1,5 @@
 site_title = "MyArxiv"
-limit_days = 7
+limit_days = 10
 cache_url = "https://w1994wl202.github.io/wlArxiv/cache.json"
 
 [[sources]]
@@ -19,8 +19,8 @@ title = "Information Retrieval"
 
 [[sources]]
 limit = 150
-category = "cs.LG"
-title = "Machine Learning"
+category = "cs.AI"
+title = "Artificial Intelligence"
 
 [[sources]]
 limit = 150
