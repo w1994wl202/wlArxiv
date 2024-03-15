@@ -1,6 +1,6 @@
-let titles_type = ["Dataset", "Survey", "Review", "Overview", "VQA"];
+let titles_type = ["Dataset", "Survey", "Review", "Overview", "VQA", "Visual Question Answer"];
 let titles_model = ["BERT", "GPT", "Transformer"];
-let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised", "CoT", "Continually Pre-train", "Continual Learning", "continual learning", "Zero-shot", "Few-shot"];
+let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised", "CoT", "Continually Pre-train", "Continual Learning", "continual learning", "Zero-shot", "Few-shot", "Foundation Model", "Mutil-Model"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
 
