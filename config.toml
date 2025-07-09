@@ -9,18 +9,18 @@ title = "Computation and Language"
 
 [[sources]]
 limit = 150
-category = "cs.CV"
-title = "Computer Vision and Pattern Recognition"
-
-[[sources]]
-limit = 150
-category = "cs.IR"
-title = "Information Retrieval"
+category = "cs.AI"
+title = "tool"
 
 [[sources]]
 limit = 150
 category = "cs.AI"
-title = "Artificial Intelligence"
+title = "Reason"
+
+[[sources]]
+limit = 150
+category = "cs.AI"
+title = "Reinforcement Learning"
 
 [[sources]]
 limit = 150
